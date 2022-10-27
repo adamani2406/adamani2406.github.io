@@ -1,0 +1,59 @@
+
+.intro {
+  background-color: yellow;
+  font-family: Garamond;
+
+}
+
+.alltext {
+text-decoration-color: red;
+}
+.headerrow{
+
+background-color: black;
+font-family: Garamond;
+
+}
+
+.headertable{
+
+font-family: Garamond;
+border: 1px solid black;	
+}
+
+.menurow{
+
+background-color: White;
+font-family: Garamond;
+}
+
+.menutable{
+ font-size: 20px;
+ font-family: Garamond;
+ }
+
+
+.categoryrow{
+
+font-family: Garamond;
+
+}
+
+.categorytable{
+
+
+font-family: Garamond;
+background-color: #ffffff;
+}
+
+.footerrow {
+
+font-family: Garamond;
+
+}
+
+.footertable{
+
+font-family: Garamond;
+
+}
